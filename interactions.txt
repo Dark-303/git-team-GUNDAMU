@@ -2,3 +2,4 @@ penecillin
 amoxicillin
 ibuprofen
 metformin
+warfarin + ibuprofen: major, bleeding risk
